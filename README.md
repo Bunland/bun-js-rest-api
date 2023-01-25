@@ -1,2 +1,2 @@
 # rest-api
-Rest Api with Bun.js
+Rest Api with Bun.js.
